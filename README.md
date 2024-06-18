@@ -37,8 +37,8 @@ classDiagram
     }
 
     User *-- Account
-    User *-- Card
     User *-- Feature
+    User *-- Card
     User *-- News
 
 ```
