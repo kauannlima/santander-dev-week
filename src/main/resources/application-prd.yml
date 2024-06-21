@@ -7,3 +7,4 @@ spring:
     open-in-view: false
     hibernate:
       ddl-auto: validate
+      dialect: org.hibernate.dialect.MySQLDialect
